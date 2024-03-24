@@ -1,0 +1,18 @@
+
+.venv/Lib
+*.xml
+*.patch
+*.iml
+chrome-win64
+chrome-win64_123.0.6312.58.zip
+.venv
+.env
+
+# Default ignored files
+/shelf/
+/workspace.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
